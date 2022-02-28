@@ -1,14 +1,14 @@
 {
-    "name": "ᴋᴀᴢᴛʀᴏsᴇʀ ",       
-    "description": "ᴋᴀᴢᴛʀᴏsᴇʀ is the Modified Version of WhatsAsena, Made By @Aj-fx with Baileys.",
-    "logo": "https://i.imgur.com/jDkKLYG.jpeg",
+    "name": "Baki ",       
+    "description": "Baki is the Modified Version of WhatsAsena, Made By @Aj-fx with Baileys.",
+    "logo": "https://i.imgur.com/OR6yFkO.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Aj-fx/Kaztro_ser",
     "website":   "https://github.com/Aj-fx/Kaztro_ser",
     "success_url": "https://github.com/Aj-fx/Kaztro_ser",
     "stack": "container",
     "env": {
-        "KAZTROSER_CODE": {
+        "BAKI_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
@@ -33,7 +33,7 @@
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "false"
         },
         "V_HEADER": {
             "description": "Set the Header name logo",
@@ -48,17 +48,17 @@
         "ALL_IMG": {
             "description": "Set the logo",
             "required": true,
-            "value": "https://telegra.ph/file/10b9d1ce0b50ae38fc6df.jpg"
+            "value": "https://i.imgur.com/OR6yFkO.jpeg"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
             "required": true,
-            "value": "Muthe i love you"
+            "value": "🤝"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
-            "required": false,
-            "value": "true"
+            "required": true,
+            "value": "false"
         },
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
@@ -68,12 +68,12 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "ᴋᴀᴢᴛʀᴏsᴇʀ"
+            "value": "BAKI"
         },
         "ALIVE_BUTTON": {
             "description": "Set the alive message two name",
             "required": true,
-            "value": "sᴇᴅ/ʜᴀᴘᴘʏ"
+            "value": "Baki/Tshephang"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
@@ -108,7 +108,7 @@
         "C_CODE": {
             "description": "Fake number not  removing country code.",
             "required": true,
-            "value": "91"
+            "value": "27"
         },
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
@@ -171,12 +171,12 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "ʜᴇʟᴏ ɢᴜʏs"
+            "value": "🖤"
         },
         "CMD_LIST": {
             "description": "You can change Command list emojis like: help/❤️/😅/🍃/💌.)",
             "required": true,
-            "value": "siya/💙/🌟/🥀/⚡"
+            "value": "baki/💙/🌟/🥀/⚡"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -201,10 +201,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": true,
-            "value": "༺══❁ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ❁══༻"
+            "value": "༺══❁Baki-404༻"
         },
         "WORK_TYPE": {
-            "description": "Kaztroser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Baki Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -220,17 +220,17 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "ᴀᴊғx"
+            "value": "Tshephang"
         },
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "918281440156"
+            "value": "27634923280"
         },
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "918281440156"
+            "value": "27634923280"
         },
         "DEPLOYER": {
             "description": "enter your name here",
@@ -243,7 +243,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands  {pp}```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands  ```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
