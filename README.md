@@ -1,11 +1,7 @@
-## Simple Method
-1.
-<p align="center">
- <a href="https://signup.heroku.com"><span class="avatar"><img height='120' src="./photo/Kaztroser-17.png" alt="Error"> </a></span>
 
 ## Click on the given link to deploy
 
-3. https://heroku.com/deploy?template=https://github.com/TSHEPHANG-V/Baki
+1. https://heroku.com/deploy?template=https://github.com/TSHEPHANG-V/Baki
 
 
   
