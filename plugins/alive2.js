@@ -29,7 +29,7 @@ Kaztroser.addCommand({pattern: 'awake', fromMe: whb, dontAddCommandList: true}, 
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ',
+          footerText: 'Baki-Hanma',
           buttons: buttons,
           headerType: 1
       }
