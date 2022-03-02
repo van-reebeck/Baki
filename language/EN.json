@@ -155,7 +155,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "*Bye bye! I am going 😁*",
+            "KICKME": "*As you can see I'm leaving*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -242,8 +242,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ᴋᴀᴢᴛʀᴏsᴇʀ ʙᴏᴛ ɪs ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘᴅᴀᴛᴇᴅ..♡︎*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*\n\nChanges:\n```",
+            "UPDATE": "*Baki is updating*",
+            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/CHWAJyGYCKG17UMF21A42I*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "*ᴋᴀᴢᴛʀᴏsᴇʀ ᴜᴘᴅᴀᴛɪɴɢ..♡︎*",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
