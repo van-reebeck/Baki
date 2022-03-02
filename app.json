@@ -22,7 +22,7 @@
             "required": false
         },
          "INSTA_PASSWORD": {
-            "description": "enter the password,password ajfx  .",
+            "description": "pass key : baki .",
             "required": true
         },
         "LANGUAGE": {
