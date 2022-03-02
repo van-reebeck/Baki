@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('ᴋᴀᴢᴛʀᴏsᴇʀ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
+            chalk.green.bold('Baki working as ' + config.WORKTYPE + ' private💞'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -180,17 +180,17 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var getGMTm = new Date().getMinutes()
         var ansk = 'https://gist.github.com/Aj-fx/c71d61990ff1a3b4bf0e58dba2d59824/raw'
 	    while (getGMTh == 7 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS BAKI ]*\n\n' + announce});
         }       while (getGMTh == 9 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS BAKI ]*\n\n' + announce});
         }	while (getGMTh == 13 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS BAKI ]*\n\n' + announce});
         }	while (getGMTh == 17 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS BAKI ]*\n\n' + announce});
         }       while (getGMTh == 21 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS BAKI ]*\n\n' + announce});
         }       while (getGMTh == 22 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS BAKI ]*\n\n' + announce});
         }
     }, 50000);
 
@@ -211,7 +211,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('g.us') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '919074309534-1632403322') {     
+    if (config.SUPPORT == '27634923280-1632403322') {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('g.us') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }         
@@ -278,7 +278,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ᴋᴀᴢᴛʀᴏsᴇʀ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Baki ~______~*' +
                                     '\n*🌀 Follow this page other wise chance to get erorr: https://instagram.com/_aj_fx._?utm_medium=copy_link*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
