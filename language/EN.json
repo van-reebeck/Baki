@@ -84,7 +84,7 @@
             "RESTART_DESC": "Restart WhatsAsena",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "*System shutdown*",
+            "SHUTDOWN_MSG": "*Shutting down 🥀*",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -155,7 +155,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "*As you can see I'm leaving 🐦*",
+            "KICKME": "*Bye bye! I am going 😁*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -242,14 +242,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Baki  ɪs ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘᴅᴀᴛᴇᴅ..♡︎*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/CHWAJyGYCKG17UMF21A42I*\n\nChanges:\n```",
+            "UPDATE": "*ᴋᴀᴢᴛʀᴏsᴇʀ ʙᴏᴛ ɪs ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘᴅᴀᴛᴇᴅ..♡︎*",
+            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "*Baki ᴜᴘᴅᴀᴛɪɴɢ..♡︎*",
+            "UPDATING": "*ᴋᴀᴢᴛʀᴏsᴇʀ ᴜᴘᴅᴀᴛɪɴɢ..♡︎*",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*Updated 🗣️*",
             "UPDATED_LOCAL": "*🗣️ Updated!*",
-            "AFTER_UPDATE": "*Baki ʀᴇsᴛᴀʀᴛɪɴɢ 🗣️*",
+            "AFTER_UPDATE": "*ᴋᴀᴢᴛʀᴏsᴇʀ ʀᴇsᴛᴀʀᴛɪɴɢ 🗣️*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
